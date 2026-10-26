@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="shellnet68 — AI Platform Engineer, Security by Design" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner.svg" />
+    <img src="assets/banner.gif" width="100%" alt="shellnet68 — AI Platform Engineer, Security by Design" />
+  </picture>
 </p>
 
 # Hi, I'm shellnet68
