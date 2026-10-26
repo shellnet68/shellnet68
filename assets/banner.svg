@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="t d">
+  <title id="t">shellnet68 · AI Platform Engineer · Security by Design</title>
+  <desc id="d">Dark banner with the headline AI Platform Engineer, the line Security by Design, a terminal prompt, and a line drawing of an accelerator chip whose central cores are guarded by a shield outline.</desc>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#2a3440"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#11161d"/>
+      <stop offset="0.55" stop-color="#11161d" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#11161d" stop-opacity="0.2"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="320" rx="16"/></clipPath>
+    <style>
+      .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Helvetica,Arial,sans-serif}
+      .mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+      .core{fill:#1a222c;stroke:#3b4756;stroke-width:1.5}
+      .line{fill:none;stroke:#3b4756;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="#11161d"/>
+    <rect width="1200" height="320" fill="url(#dots)"/>
+    <rect width="820" height="320" fill="url(#fade)"/>
+
+    <path class="line" d="M846 96h-60l-24-24h-46M846 148h-96M846 200h-40l-24 24h-62M846 252h-70"/>
+    <circle cx="716" cy="72" r="4" fill="#11161d" stroke="#3b4756" stroke-width="2"/>
+    <circle cx="750" cy="148" r="4" fill="#11161d" stroke="#e6b450" stroke-width="2"/>
+    <circle cx="720" cy="224" r="4" fill="#11161d" stroke="#3b4756" stroke-width="2"/>
+    <circle cx="776" cy="252" r="4" fill="#11161d" stroke="#3b4756" stroke-width="2"/>
+
+    <path class="line" d="M883 52v-14M883 268v14M860 75h-14M1076 75h14M909 52v-14M909 268v14M860 101h-14M1076 101h14M935 52v-14M935 268v14M860 127h-14M1076 127h14M961 52v-14M961 268v14M860 153h-14M1076 153h14M987 52v-14M987 268v14M860 179h-14M1076 179h14M1013 52v-14M1013 268v14M860 205h-14M1076 205h14M1039 52v-14M1039 268v14M860 231h-14M1076 231h14M1065 52v-14M1065 268v14M860 257h-14M1076 257h14"/>
+    <rect x="860" y="52" width="216" height="216" rx="14" fill="#151c24" stroke="#4a5868" stroke-width="2"/>
+    <rect x="876" y="68" width="184" height="184" rx="8" fill="none" stroke="#2c3642" stroke-width="1.5"/>
+      <rect x="888" y="80" width="34" height="34" rx="4" class="core"/>
+      <rect x="930" y="80" width="34" height="34" rx="4" class="core"/>
+      <rect x="972" y="80" width="34" height="34" rx="4" class="core"/>
+      <rect x="1014" y="80" width="34" height="34" rx="4" class="core"/>
+      <rect x="888" y="122" width="34" height="34" rx="4" class="core"/>
+      <rect x="930" y="122" width="34" height="34" rx="4" class="core"/>
+      <rect x="972" y="122" width="34" height="34" rx="4" class="core"/>
+      <rect x="1014" y="122" width="34" height="34" rx="4" class="core"/>
+      <rect x="888" y="164" width="34" height="34" rx="4" class="core"/>
+      <rect x="930" y="164" width="34" height="34" rx="4" class="core"/>
+      <rect x="972" y="164" width="34" height="34" rx="4" class="core"/>
+      <rect x="1014" y="164" width="34" height="34" rx="4" class="core"/>
+      <rect x="888" y="206" width="34" height="34" rx="4" class="core"/>
+      <rect x="930" y="206" width="34" height="34" rx="4" class="core"/>
+      <rect x="972" y="206" width="34" height="34" rx="4" class="core"/>
+      <rect x="1014" y="206" width="34" height="34" rx="4" class="core"/>
+    <path d="M968 112l38 14v30c0 24-16 40-38 50c-22-10-38-26-38-50v-30z" fill="#11161d" fill-opacity="0.88" stroke="#e6b450" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M953 160l11 11l20-22" fill="none" stroke="#e6b450" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <text x="64" y="84" class="mono" font-size="22" fill="#7d8a97"><tspan fill="#8fbf7f">shellnet68</tspan><tspan fill="#5d6b7a">:~$</tspan> whoami</text>
+    <text x="62" y="156" class="sans" font-size="58" font-weight="700" fill="#eef1ee" letter-spacing="-1">AI Platform Engineer</text>
+    <rect x="64" y="186" width="6" height="30" rx="2" fill="#e6b450"/>
+    <text x="84" y="212" class="sans" font-size="30" font-weight="500" fill="#e6b450">Security by Design</text>
+    <text x="64" y="266" class="mono" font-size="20" fill="#7d8a97">platforms <tspan fill="#4a5868">/</tspan> inference <tspan fill="#4a5868">/</tspan> guardrails</text>
+  </g>
+  <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="15.25" fill="none" stroke="#2a3440" stroke-width="1.5"/>
+</svg>
